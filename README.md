@@ -1,2 +1,2 @@
-# jav_v2
+# javascript_v1
 Created with CodeSandbox
